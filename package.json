@@ -19,6 +19,12 @@
   "bugs": {
     "url": "https://issues.jboss.org/browse/AGSMPLPUSH"
   },
+  "devDependencies": {
+    "nsp": "*"
+  },
+  "scripts": {
+    "prepublish": "nsp audit-package"
+  },
   "licenses": [
     {
       "type": "Apache-2.0",
