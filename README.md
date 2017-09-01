@@ -1,3 +1,8 @@
+# Deprecated 
+
+SimplePush is no longer maintained by Mozilla, see:
+https://twitter.com/MozillaWebpush/status/896095563942318080
+
 # aerogear-simplepush-node-client
 
 Node Sender API for the AeroGear SimplePush Server
